@@ -1,4 +1,4 @@
-# Progetto-Intelligenza-Artificiale
+# Progetto Intelligenza Artificiale
 Studio classificatori Naive Bayes
 
 #####   SYSTEM REQUIREMENTS  #####
